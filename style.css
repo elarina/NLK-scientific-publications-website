@@ -4,8 +4,8 @@ body {
 }
 
 @media screen and (max-width: 10in) {
-  body {
-    font-size: 2em;
+  main {
+    font-size: 6vw;
   }
 }
 
