@@ -3,6 +3,12 @@ body {
   font-size: 16px;
 }
 
+@media screen and (max-width: 6in) {
+  body {
+    font-size: 25px;
+  }
+}
+
 header {
   background-color: #343A40;
   background-size: cover;
