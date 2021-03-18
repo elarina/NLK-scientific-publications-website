@@ -3,10 +3,12 @@ body {
   font-size: 16px;
 }
 
-@media screen and (max-width: 10in) {
-  main {
-    font-size: 6vw;
-  }
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+   main {
+     font-size: 30px;
+   }
 }
 
 header {
