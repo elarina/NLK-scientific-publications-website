@@ -3,7 +3,7 @@ body {
   font-size: 16px;
 }
 
-@media (min-resolution: 50dpi) {
+@media (min-resolution: 50dpi) and (max-width: 900px) {
    main {
      font-size: 30px;
    }
